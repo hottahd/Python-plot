@@ -1,2 +1,5 @@
 # Python-plot
-Instruction for matplotlib
+Matplotlibでプロットをするために気をつけることをメモしておく。
+
+追記してほしい/すべき点があったら堀田まで連絡をされたし。
+
